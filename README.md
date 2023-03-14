@@ -2,7 +2,7 @@
 
 Full Stack Web Developer
 
-✔ Soy Fullstack Web Developer recientemente graduada en Soy Henry 💻 cuento con capacidades básicas para crear, mantener y optimizar sitios web, incorporando de manera correcta las diferentes librerías y FrameWorks a partir de código limpio, de manera ágil y eficaz, desarrollando soluciones totalmente escalables y optimizadas.
+✔ Soy Fullstack Web Developer recientemente graduada de Soy Henry 💻 cuento con capacidades básicas para crear, mantener y optimizar sitios web, incorporando de manera correcta las diferentes librerías y FrameWorks a partir de código limpio, de manera ágil y eficaz, desarrollando soluciones totalmente escalables y optimizadas.
 
  ⚠ MANEJO DE LENGUAJES Y TECNOLOGÍAS ❕❕
 
